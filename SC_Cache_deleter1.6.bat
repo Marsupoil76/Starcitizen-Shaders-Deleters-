@@ -3,7 +3,7 @@ if "%ANSICON%"=="" (
     for /F "tokens=*" %%a in ('echo prompt $E^| cmd') do set "ESC=%%a"
 )
 
-echo %ESC%[36m----------"SC-4.7 Star Citizen cache & shaders suppressor V1.6"---------%ESC%[0m
+echo %ESC%[36m----------"SC-4.7.1 Star Citizen cache & shaders suppressor V1.7"---------%ESC%[0m
 echo %ESC%[36m"    __  __  ____     __  __      ____                                 "  %ESC%[0m
 echo %ESC%[38;5;45m"   /\ \/\ \/\  _`\  /\ \/\ \    /\  _`\                               "  %ESC%[0m
 echo %ESC%[38;5;51m"   \ \ \ \ \ \ \L\ \\ \ \_\ \   \ \ \/\_\    ___    ____   ____       "  %ESC%[0m
